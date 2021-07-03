@@ -26,8 +26,8 @@
     "pg-promise": "^10.10.2"
   },
   "_moduleAliases": {
-    "Controllers": "./controllers",
-    "Queries": "./queries",
-    "Utils": "./utils"
+    "Controllers": "controllers",
+    "Queries": "queries",
+    "Utils": "utils"
   }
 }
