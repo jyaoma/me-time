@@ -1,4 +1,5 @@
 SELECT
+  id,
   title,
   start_time AS "startTime",
   end_time AS "endTime",
